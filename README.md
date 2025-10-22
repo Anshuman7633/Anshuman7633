@@ -11,11 +11,11 @@
 
 - 📫 How to reach me **anshumanankur2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/13MSQExG7eym9pmFBrvPe4aO5AJLSrghq/view?usp=sharing](https://drive.google.com/file/d/13MSQExG7eym9pmFBrvPe4aO5AJLSrghq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/13MSQExG7eym9pmFBrvPe4aO5AJLSrghq/view?usp=sharing](https://drive.google.com/file/d/1OhOK6se8kGtOaDB0mJIumFD4oF9Nv1pU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anshuman ankur thakur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman ankur thakur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anshuman ankur thakur/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshuman ankur thakur" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
